@@ -3,6 +3,8 @@
 ### Career Execution Platform
 
 > **Stop searching for career advice. Start forging your path.**
+>
+> 🔗 **[🚀 Live Demo — Visit X-FORGE](https://x-forge-hazel.vercel.app/)**
 
 X-FORGE is a web-based career execution platform designed to help people turn career goals into structured, actionable paths.
 
